@@ -6,3 +6,4 @@
 <h2>This another test line</h2>
 <h2>Welcome to something exciting</h2>
 <h2>Welcome to paradise</h2>
+<h2>This is a new test for ansible server CI/CD</h2>
