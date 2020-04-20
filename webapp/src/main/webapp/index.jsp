@@ -8,3 +8,4 @@
 <h2>Welcome to paradise</h2>
 <h2>This is a new test for ansible server CI/CD</h2>
 <h2>This is a test for pollscm feature test for ansible deployment<h2>
+<h2>This is to test the deployment on docker server by jenkins<h2>
